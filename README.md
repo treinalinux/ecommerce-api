@@ -1,24 +1,19 @@
-# README
+# ecommerce-api
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Project of Bootcamp Onebitcode
 
-Things you may want to cover:
+### Project ecommerce-api started
 
-* Ruby version
+### Created database test and development
 
-* System dependencies
+### Implemented mailcatcher
 
-* Configuration
+### Gemfile clean
 
-* Database creation
+### Implemented devise_token_auth
 
-* Database initialization
+### Implemented authenticable with token
 
-* How to run the test suite
+### Implemented reset password token with email
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### Enabled cors
